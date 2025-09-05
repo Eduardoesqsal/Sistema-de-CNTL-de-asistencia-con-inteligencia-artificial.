@@ -1,0 +1,15 @@
+numpy==1.26.1
+opencv-python-headless==4.9.0.80
+matplotlib==3.7.2
+tensorflow-intel==2.15
+keras==2.15
+deepface==0.0.93
+pandas==2.2.2
+flask==3.1.2
+flask-cors==6.0.1
+mtcnn==1.0.0
+retina-face==0.0.17
+requests>=2.32.0
+tqdm>=4.67.1
+Pillow>=11.0.0
+tf-keras
